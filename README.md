@@ -8,21 +8,21 @@ Requirements\
 Python 3.x\
 Jupyter Notebook\
 Apache Spark\
-Hadoop\
+Hadoop
 
 ## Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/AamirNawab/Big_Data.git
-Install the required Python packages:
-bash
-Copy code
+Clone the repository:\
+bash\
+Copy code\
+git clone https://github.com/AamirNawab/Big_Data.git\
+Install the required Python packages:\
+bash\
+Copy code\
 pip install -r requirements.txt
 
 ## Usage
-Open the Jupyter Notebook:
-bash
-Copy code
-jupyter notebook Scripts_Aamir/BDTT_Aamir_Nawab.ipynb
+Open the Jupyter Notebook:\
+bash\
+Copy code\
+jupyter notebook Scripts_Aamir/BDTT_Aamir_Nawab.ipynb\
 Run the cells in the notebook to execute the data processing and analysis steps.
