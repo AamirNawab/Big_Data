@@ -1,15 +1,16 @@
-Big Data Project
-Overview
+# Big Data Project
+## Overview
 This project demonstrates various big data processing and analysis techniques using tools such as Apache Spark and Hadoop. The project includes data loading, cleaning, transformation, and analysis scripts.
 
-Contents
+## Contents
 Scripts_Aamir/BDTT_Aamir_Nawab.ipynb: Jupyter Notebook containing all the scripts and code for the project.
 Requirements
 Python 3.x
 Jupyter Notebook
 Apache Spark
 Hadoop
-Installation
+
+## Installation
 Clone the repository:
 bash
 Copy code
@@ -18,7 +19,8 @@ Install the required Python packages:
 bash
 Copy code
 pip install -r requirements.txt
-Usage
+
+## Usage
 Open the Jupyter Notebook:
 bash
 Copy code
